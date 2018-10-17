@@ -8,6 +8,3 @@ another change
 test
 hello again
 new line of code
-another change
-new thing
-hello
